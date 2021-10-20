@@ -1,4 +1,4 @@
-# HealHealth
+# HealLab
 
 This is a Web app for Diagnostic Center. User can get idea about packages and clear visualization of services. To view the site click here - https://heal-lab.web.app/
 
