@@ -9,4 +9,4 @@ This is a Web app for Diagnostic Center. User can get idea about packages and cl
 - User can sign up and sign in to get connected with us also view service details.
 - User can view health blogs
 - User can get clear idea about lab conductors.
-- User can get faq.
+- User can get answers of faq.
